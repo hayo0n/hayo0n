@@ -15,14 +15,14 @@
 
 ### 🏆 Awards
 | 날짜	| 대회	| 수상	| 학교 |
-|---|-----|---|---|
-|2021.12 | 응용통계학과 제 2회 추계학술대회	| 우수상	| 건국대학교 |
+|:---|:-----|---:|---:|
+| 2021.12 | 응용통계학과 제 2회 추계학술대회 | 우수상	| 건국대학교 |
 | 2022.10 | 응용통계학과 제 3회 추계학술대회 | 장려상	| 건국대학교 |
 | 2023.10	| 응용통계학과 제 4회 추계학술대회 | 최우수상 | 건국대학교 |
 | 2024.05	| 뤼튼 생성형 AI 아이디어 해커톤(생성형 AI Ideathon 건국대학교 예선) | 우수상 | 건국대학교 |
 
   
-### 💻 STACKS
+### 💻 Stacks
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
